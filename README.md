@@ -67,22 +67,6 @@ Repositório com exercícios e práticas desenvolvidas durante as aulas de JavaS
 
 ---
 
-## 📫 Contato / Contact
-
-* GitHub: https://github.com/ViniciosBrandao
-* LinkedIn: (adicione aqui depois)
-
----
-
-## 📚 Em evolução / In progress
-
-Este perfil representa minha jornada de aprendizado.
-Cada projeto reflete minha evolução prática na programação.
-
-This profile represents my learning journey.
-Each project reflects my practical growth in programming.
-
-
 ## 📈 Em evolução
 
 Atualmente estudando:
