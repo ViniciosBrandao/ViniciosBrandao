@@ -79,4 +79,4 @@ Atualmente estudando:
 
 ## 🔗 Contato
 
-* LinkedIn: [(https://www.linkedin.com/in/vinicios-brand%C3%A3o-495846256/)]
+* LinkedIn: https://www.linkedin.com/in/vinicios-brand%C3%A3o-495846256
